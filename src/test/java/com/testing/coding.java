@@ -8,7 +8,7 @@ public class coding {
 		System.out.print(false);
 
 		String value = "name";
-		String value1 ="dummy";
+		String value1 ="pooda";
 
 	}
 	
