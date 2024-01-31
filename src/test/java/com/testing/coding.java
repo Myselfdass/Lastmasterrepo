@@ -4,7 +4,12 @@ public class coding {
 
 	private void pooda() {
 		System.out.println("poodapaiya");
+
 		System.out.print(false);
+
+		String value = "name";
+		String value1 ="dummy";
+
 	}
 	
 	
