@@ -5,6 +5,7 @@ public class coding {
 	private void pooda() {
 		System.out.println("poodapaiya");
 		String value = "name";
+		String value ="dummy";
 	}
 	
 	
