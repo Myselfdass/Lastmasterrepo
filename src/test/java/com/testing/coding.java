@@ -2,6 +2,11 @@ package com.testing;
 
 public class coding {
 
+	private void pooda() {
+		System.out.println("pooda");
+	}
+	
+	
 	public static void main(String[] args) {
 
 		String S2 = "India.Srilanka.Pakistan";
@@ -20,6 +25,7 @@ public class coding {
 			String du=split[i];
 			System.out.println(du);
 		}
+		
 		
 		
 	}
